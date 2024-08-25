@@ -1,0 +1,15 @@
+{
+    "name": "safar/query-builder",
+    "autoload": {
+        "psr-4": {
+            "QueryBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Safar Umarov",
+            "email": "safarumarov711@gmail.com"
+        }
+    ],
+    "require": {}
+}
